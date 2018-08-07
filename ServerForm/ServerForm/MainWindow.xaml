@@ -1,0 +1,16 @@
+﻿<Window x:Class="ServerForm.Server"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServerForm"
+        mc:Ignorable="d"
+        Title="Server" Height="450" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <ScrollViewer Margin="10" Height="250" Name="SvChat"></ScrollViewer>
+            <Button Name="BtnStop" Content="Stop Server" IsEnabled="False" Margin="10" Padding="10" VerticalAlignment="Center" Click="BtnStop_Click"></Button>
+            <Button Name="BtnStart" Content="Setup Server" Margin="10" Padding="10" VerticalAlignment="Center" Click="BtnStart_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

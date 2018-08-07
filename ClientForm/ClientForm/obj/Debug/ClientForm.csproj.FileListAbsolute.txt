@@ -1,0 +1,30 @@
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\MainWindow.g.cs
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\App.g.cs
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm_MarkupCompile.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm_MarkupCompile.lref
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\MainWindow.baml
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.g.resources
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\MainWindow.g.cs
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\App.g.cs
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm_MarkupCompile.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm_MarkupCompile.lref
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\MainWindow.baml
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.g.resources
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+D:\Jerwin\School\CS 415 Client Server\Chatroom Application\Final Chatroom\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
